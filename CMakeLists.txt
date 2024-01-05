@@ -25,6 +25,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 
 add_subdirectory(3dparty/stm32l4)
+# add_subdirectory(3dparty/fmt)
 add_subdirectory(src)
+
 
 
