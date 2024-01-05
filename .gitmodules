@@ -1,0 +1,6 @@
+[submodule "3dparty/stm32l4"]
+	path = 3dparty/stm32l4
+	url = https://github.com/SmallSharky/stm32l4
+[submodule "3dparty/embedded-cmake-snippets"]
+	path = 3dparty/embedded-cmake-snippets
+	url = https://github.com/SmallSharky/embedded-cmake-snippets
